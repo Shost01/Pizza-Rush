@@ -47,7 +47,7 @@ Foi desenvolvido como parte de um **projeto acadêmico**, com o objetivo de apli
 
 O jogo já está compilado e pronto para ser jogado. Para jogar, basta baixar o arquivo **.exe** e executá-lo em seu computador. 
 
-- [Baixar Pizza Rush](https://github.com/Shost01/Pizza-Rush/releases) (link para o release no GitHub, se disponível)
+- [Baixar Pizza Rush](https://drive.google.com/file/d/1ZxbbgfbdENRbc-2QhhhPPeiAUDrV1PPl/view?usp=sharing) (link para o release no GitHub, se disponível)
 
 ## 🎥 Vídeo do Jogo
 
