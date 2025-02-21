@@ -45,7 +45,7 @@ Foi desenvolvido como parte de um **projeto acadêmico**, com o objetivo de apli
 
 ## 📥 Download do Jogo
 
-O jogo já está compilado e pronto para ser jogado. Para jogar, basta baixar o arquivo **.exe** e executá-lo em seu computador. 
+O jogo já está compilado e pronto para ser jogado. Para jogar, basta baixar o arquivo **.exe** e executá-lo em seu computador.
 
 - [Baixar Pizza Rush](https://drive.google.com/file/d/1ZxbbgfbdENRbc-2QhhhPPeiAUDrV1PPl/view?usp=sharing)
 
@@ -61,4 +61,4 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 
 ---
 
-Aproveite o jogo e fique à vontade para personalizar este README conforme necessário. Divirta-se jogando e codificando! 🎉😄
+Aproveite o jogo e fique à vontade para personalizar este README conforme n
