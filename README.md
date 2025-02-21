@@ -16,6 +16,7 @@
 - [Tecnologias](#tecnologias)
 - [Como Jogar](#como-jogar)
 - [Download do Jogo](#download-do-jogo)
+- [Vídeo do Jogo](#vídeo-do-jogo)
 - [Licença](#licença)
 
 ## 🔭 Visão Geral
@@ -47,6 +48,12 @@ Foi desenvolvido como parte de um **projeto acadêmico**, com o objetivo de apli
 O jogo já está compilado e pronto para ser jogado. Para jogar, basta baixar o arquivo **.exe** e executá-lo em seu computador. 
 
 - [Baixar Pizza Rush](https://github.com/Shost01/Pizza-Rush/releases) (link para o release no GitHub, se disponível)
+
+## 🎥 Vídeo do Jogo
+
+Você pode conferir o vídeo do jogo para ver a jogabilidade e os recursos em ação. O vídeo está disponível no **Google Drive** e também no arquivo **.txt** incluído no repositório.
+
+- [Assistir ao vídeo do jogo no Google Drive](https://drive.google.com/[link-do-video])
 
 ## 📄 Licença
 
